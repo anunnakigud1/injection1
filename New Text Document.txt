@@ -1,0 +1,8 @@
+rhad = explorer.exe
+
+r = svchost = 1 
+bl = smss = 2
+m = csrs = 3
+logs = wininit = 4
+c = winlogon = 5
+logger = SecurityHealthService = 6
